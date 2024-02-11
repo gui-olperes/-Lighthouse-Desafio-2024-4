@@ -1,6 +1,6 @@
 # -Lighthouse-Desafios-2024-4
 
-Este é um projeto Jupyter Notebook para o Desafio Ciência de Dados 2024.
+Este é um projeto Jupyter Notebook para o Desafio Ciência de Dados 2024 da Lighthouse.
 
 ## Instalação
 
