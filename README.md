@@ -43,16 +43,6 @@ O Notebook consiste em células de código e texto. Você pode executar as célu
 - Seaborn
 - Outras bibliotecas conforme necessário (especificadas no Notebook)
 
-## Contribuindo
-
-Se você quiser contribuir com este projeto, siga as etapas abaixo:
-
-1. Faça um fork do repositório.
-2. Crie um branch para sua nova feature (`git checkout -b feature/nova-feature`).
-3. Faça commit de suas mudanças (`git commit -am 'Adiciona nova feature'`).
-4. Faça push do branch (`git push origin feature/nova-feature`).
-5. Crie um novo Pull Request.
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
