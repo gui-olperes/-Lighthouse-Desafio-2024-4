@@ -1,1 +1,1 @@
-# -Lighthouse-Desafio-Ci-ncia-de-Dados-2024-4
+# -Lighthouse-Desafio-Ciencia-de-Dados-2024-4
